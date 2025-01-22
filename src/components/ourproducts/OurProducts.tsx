@@ -14,6 +14,8 @@ export interface Product {
   isNew: boolean;
   _id: string;
   title: string;
+  id: string;
+  image: string;
 }
 
 
